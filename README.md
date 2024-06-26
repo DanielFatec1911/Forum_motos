@@ -11,7 +11,7 @@ Este repositório contém o código-fonte de um fórum dedicado aos amantes de m
 - JavaScript para interatividade e funcionalidades dinâmicas
 
 
-Este repositório contém o código-fonte de um fórum dedicado aos amantes de motocicletas, especialmente motos de maiores cilindradas. Os amantes da velocidade conseguem tirar dúvidas e mostrar seu conhecimento sobre as duas rodas em nosso fórum.
+Este repositório contém o código-fonte de um fórum dedicado aos amantes de motocicletas.
 
 ## Tecnologias Utilizadas
 - Linguagem: PHP
