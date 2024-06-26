@@ -25,12 +25,7 @@ Este repositório contém o código-fonte de um fórum dedicado aos amantes de m
 - HTML e CSS para a estrutura e o design do site
 - JavaScript para interatividade e funcionalidades dinâmicas
 
-## Galeria de Imagens
+## 
 
-<div align="center">
-    <img src="[https://example.com/path/to/image1.jpg](https://jacaremoto.com.br/wp-content/uploads/2019/10/001-BMW-S1000RR-2020vern-942x800.jpg)" alt="Motocicleta 1" width="300">
-    <img src="https://example.com/path/to/image2.jpg" alt="Motocicleta 2" width="300">
-    <img src="https://example.com/path/to/image3.jpg" alt="Motocicleta 3" width="300">
-</div>
-
+🏍️         🏍️             🏍️
 
