@@ -1,10 +1,10 @@
 # Forum de Motocicletas 🏍️
 
 
-<p1>Este repositório contém o código-fonte de um fórum desenvolvido como um projeto acadêmico proposto pela FATEC José Crespo Gonzales, sob a orientação do tutor André Cassulino Araújo.<p1>
-<p1>O objetivo deste projeto é demonstrar e aplicar nossos conhecimentos adquiridos ao longo do curso.<p1>
-<p1>Nosso fórum é dedicado aos amantes de motocicletas, especialmente aquelas de maiores cilindradas.<p1> 
-<p1>Aqui, os entusiastas da velocidade podem tirar dúvidas, compartilhar experiências e exibir seus conhecimentos sobre o mundo das duas rodas.<p1>
+Este repositório contém o código-fonte de um fórum desenvolvido como um projeto acadêmico proposto pela FATEC José Crespo Gonzales, sob a orientação do tutor André Cassulino Araújo. O objetivo deste projeto é demonstrar e aplicar nossos conhecimentos adquiridos ao longo do curso.
+
+Nosso fórum é dedicado aos amantes de motocicletas, especialmente aquelas de maiores cilindradas. Aqui, os entusiastas da velocidade podem tirar dúvidas, compartilhar experiências e exibir seus conhecimentos sobre o mundo das duas rodas.
+
 
 ## Tecnologias Utilizadas 👨🏼‍💻
 - Linguagem: PHP
