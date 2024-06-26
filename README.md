@@ -11,7 +11,7 @@ Este repositório contém o código-fonte de um fórum dedicado aos amantes de m
 - JavaScript para interatividade e funcionalidades dinâmicas
 
 
-<h3 align="center">Tecnologias</h3>
+<h3 align="center">Tecnologias</h3> 💻
 <p align="left">
 </p>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
