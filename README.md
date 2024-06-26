@@ -23,9 +23,7 @@ Este repositório contém o código-fonte de um fórum dedicado aos amantes de m
 - Arquitetura: MVC
 - Banco de Dados: Relacional
 - HTML e CSS para a estrutura e o design do site
-- JavaScript para interatividade e funcionalidades dinâmicas
-
-## 
+- JavaScript para interatividade e funcionalidades dinâmicas 
 
 🏍️         🏍️             🏍️
 
