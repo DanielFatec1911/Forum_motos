@@ -1,6 +1,6 @@
 # Forum de Motocicletas 🏍️
 
-Este repositório contém o código-fonte de um fórum dedicado aos amantes de motocicletas, especialmente motos de maiores cilindradas. Os amantes da velocidade conseguem tirar dúvidas e mostrar seu conhecimento sobre as duas rodas em nosso fórum.
+Este repositório contém o código-fonte de um fórum um projeto academico proposto pela instituição fatec José crespo gonzales, pelo tutor André Cassulino Araújo onde o foco é mostrar nossos conhecimentos atraves de um forum, nosso forum é dedicado aos amantes de motocicletas, especialmente motos de maiores cilindradas. Os amantes da velocidade conseguem tirar dúvidas e mostrar seu conhecimento sobre as duas rodas em nosso fórum.
 
 ## Tecnologias Utilizadas 👨🏼‍💻
 - Linguagem: PHP
