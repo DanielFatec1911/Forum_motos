@@ -21,7 +21,6 @@ Este repositório contém o código-fonte de um fórum dedicado aos amantes de m
 - HTML e CSS para a estrutura e o design do site
 - JavaScript para interatividade e funcionalidades dinâmicas 
 
-🏍️         🏍️             🏍️
 <h3 align="center">Tecnologias</h3>
 <p align="left">
 </p>
