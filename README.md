@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   >Repositório do Site de Motocicletas
+   
 </head>
 <body>
     <h1>Motocicletas - A Paixão sobre Duas Rodas</h1>
