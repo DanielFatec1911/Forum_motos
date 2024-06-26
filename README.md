@@ -1,8 +1,8 @@
-# Forum de Motocicletas 
+# Forum de Motocicletas 🏍️
 
 Este repositório contém o código-fonte de um fórum dedicado aos amantes de motocicletas, especialmente motos de maiores cilindradas. Os amantes da velocidade conseguem tirar dúvidas e mostrar seu conhecimento sobre as duas rodas em nosso fórum.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 👨🏼‍💻
 - Linguagem: PHP
 - Framework: Laravel
 - Arquitetura: MVC
@@ -10,16 +10,6 @@ Este repositório contém o código-fonte de um fórum dedicado aos amantes de m
 - HTML e CSS para a estrutura e o design do site
 - JavaScript para interatividade e funcionalidades dinâmicas
 
-
-Este repositório contém o código-fonte de um fórum dedicado aos amantes de motocicletas.
-
-## Tecnologias Utilizadas
-- Linguagem: PHP
-- Framework: Laravel
-- Arquitetura: MVC
-- Banco de Dados: Relacional
-- HTML e CSS para a estrutura e o design do site
-- JavaScript para interatividade e funcionalidades dinâmicas 
 
 <h3 align="center">Tecnologias</h3>
 <p align="left">
