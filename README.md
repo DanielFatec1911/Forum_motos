@@ -33,20 +33,4 @@ Este repositório contém o código-fonte de um fórum dedicado aos amantes de m
     <img src="https://example.com/path/to/image3.jpg" alt="Motocicleta 3" width="300">
 </div>
 
-## Como começar
 
-Para começar a explorar o projeto, clone este repositório em sua máquina local:
-
-```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
-" alt="Motocicleta 1" width="300">
-    <img src="https://example.com/path/to/image2.jpg" alt="Motocicleta 2" width="300">
-    <img src="https://example.com/path/to/image3.jpg" alt="Motocicleta 3" width="300">
-</div>
-
-## Como começar
-
-Para começar a explorar o projeto, clone este repositório em sua máquina local:
-
-```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
