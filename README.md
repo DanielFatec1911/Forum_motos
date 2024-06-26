@@ -22,12 +22,10 @@ Este repositório contém o código-fonte de um fórum dedicado aos amantes de m
 - JavaScript para interatividade e funcionalidades dinâmicas 
 
 🏍️         🏍️             🏍️
-<h3 align="center">Um desenvolvedor front-end apaixonado da Índia</h3>
+<h3 align="center">Ferramentas</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 </p>
-
-<h3 align= "left">Idiomas e ferramentas:</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 
