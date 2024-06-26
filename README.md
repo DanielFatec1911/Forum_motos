@@ -1,4 +1,4 @@
-# Forum de Motocicletas - A Paixão sobre Duas Rodas
+# Forum de Motocicletas 
 
 Este repositório contém o código-fonte de um fórum dedicado aos amantes de motocicletas, especialmente motos de maiores cilindradas. Os amantes da velocidade conseguem tirar dúvidas e mostrar seu conhecimento sobre as duas rodas em nosso fórum.
 
