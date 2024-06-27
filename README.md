@@ -7,7 +7,7 @@ Nosso fórum é dedicado aos amantes de motocicletas, especialmente aquelas de m
 
 
 ## Integrantes
-- Iran Camargo De Queiroz Junior
+- Irann Camargo De Queiroz Junior
 - Guilherme Ferreira Da Silva
 - Daniel Pereira Silva
 
