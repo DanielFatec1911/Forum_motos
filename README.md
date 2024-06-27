@@ -9,7 +9,7 @@ Nosso fórum é dedicado aos amantes de motocicletas, especialmente aquelas de m
 ## Integrantes
 - Irann Camargo De Queiroz Junior
 - Guilherme Ferreira Da Silva
-- Daniel Pereira Silva
+- DaniEL Pereira Silva
 
 
 ## Tecnologias Utilizadas 👨🏼‍💻
