@@ -5,6 +5,10 @@ Este repositório contém o código-fonte de um fórum desenvolvido como um proj
 
 Nosso fórum é dedicado aos amantes de motocicletas, especialmente aquelas de maiores cilindradas. Aqui, os entusiastas da velocidade podem tirar dúvidas, compartilhar experiências e exibir seus conhecimentos sobre o mundo das duas rodas.
 
+## Integrantes
+Iran Camargo De Queiroz Junior
+Guilherme Ferreira Da Silva
+Daniel Pereira Silva
 
 ## Tecnologias Utilizadas 👨🏼‍💻
 - Linguagem: PHP
