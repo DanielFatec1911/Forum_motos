@@ -11,7 +11,7 @@ Nosso fórum é dedicado aos amantes de motocicletas, especialmente aquelas de m
 - Guilherme Ferreira Da Silva
 - DaniEL Pereira Silva
 
-## Desenvolvimento
+## Desenvolvimento 🔧
 
 Ao longo do tempo, identificamos alguns erros de direcionamento, mas conseguimos corrigi-los sem problemas. Nosso objetivo foi manter a parte visual simples, direta e de fácil compreensão para nossos usuários. Dado que este é um projeto complexo, dedicamos tempo para entender todas as suas funcionalidades.
 
