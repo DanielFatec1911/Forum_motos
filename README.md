@@ -15,7 +15,7 @@ Nosso fórum é dedicado aos amantes de motocicletas, especialmente aquelas de m
 
 Ao longo do tempo, identificamos alguns erros de direcionamento, mas conseguimos corrigi-los sem problemas. Nosso objetivo foi manter a parte visual simples, direta e de fácil compreensão para nossos usuários. Dado que este é um projeto complexo, dedicamos tempo para entender todas as suas funcionalidades.
 
-Além de entregar um projeto de qualidade, buscamos aprimorar nossos conhecimentos. Essa experiência nos proporcionou um aprendizado valioso e nos ajudou a evoluir.
+Além de apenas entregar um projeto, buscamos aprimorar nossos conhecimentos. Essa experiência nos proporcionou um aprendizado valioso e nos ajudou a evoluir.
 
 ## Tecnologias Utilizadas 👨🏼‍💻
 - Linguagem: PHP
